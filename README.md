@@ -1,4 +1,4 @@
-<img src="">
+<img src="Presentación_Elsa.jpg">
 - 👋 Hola, mi nombre es Elsa Miros de la Cruz
 - 👀 Me interesa la innovación en las nuevas tecnologías.
 - 🌱 Actualmente estoy aprendiendo mucho con el doctorado en tecnología  educativa.
